@@ -1,0 +1,39 @@
+Algorithms 
+
+- Understand
+-- understand inputs/ outputs
+-- whats part of the problem whats not
+-- when are we done? when you are able to teach it to someone else a few different ways
+
+- Plan
+-- # pseudocode 
+-- plan a simple approach first.
+-- ensure edge cases, none, some, one a lot
+-- do it out loud
+-- pseudocode is complete
+-- confident plan solves the problem
+
+elsy's aphorism
+run ->  right if someone trust has a pre-written the tests for you
+right -> run if you have to write your own tests
+
+- Execute
+-- 'googling stack overflow'
+-- try to stick to you plan
+-- you can loop back to U or P if you realize something new
+-- focus on the basics
+-- having a test created
+-- document as you go, commit as you go
+-- tests pass, behavior is expected
+
+- Reflect
+-- comment your code
+-- documentation, write a readme
+-- Runtime
+
+
+- Make a checklist
+-- what took the longest, or was the hardest
+-- what problem -solving technique or tool could have helped me solve this faster?
+-- make the checklist easy to use
+-- checklist to read or fill out
